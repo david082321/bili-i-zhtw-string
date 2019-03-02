@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Player_danmaku_options_pannel_label_danmaku_domain">
+        <item>1/4屏</item>
+        <item>半屏</item>
+        <item>3/4屏</item>
+        <item>不重疊</item>
+        <item>無限</item>
+    </string-array>
+    <string-array name="Player_danmaku_options_pannel_label_danmaku_format_speed_factor">
+        <item>極慢</item>
+        <item>較慢</item>
+        <item>適中</item>
+        <item>較快</item>
+        <item>極快</item>
+    </string-array>
+    <string-array name="Player_danmaku_options_pannel_label_danmaku_format_textsize">
+        <item>极小</item>
+        <item>较小</item>
+        <item>适中</item>
+        <item>较大</item>
+        <item>超大</item>
+    </string-array>
+    <string-array name="pref_entries_VoutViewType">
+        <item>自動選擇（推薦）</item>
+        <item>Android 表面渲染</item>
+        <item>Android 紋理渲染</item>
+        <item>OpenGL 表面渲染</item>
+    </string-array>
+    <string-array name="pref_entrySummaries_VoutViewType">
+        <item>自動選擇</item>
+        <item>SurfaceRender，標準的輸出方式</item>
+        <item>TextureRender，針對高幀率影片優化性能</item>
+        <item>GLSurfaceRender，多線程高效渲染</item>
+    </string-array>
+    <string-array name="pref_player_codecMode_entries">
+        <item>自動選擇（推薦）</item>
+        <item>V3硬解優先 (ijkplayer)</item>
+        <item>軟解優先（兼容模式）</item>
+        <item>系統硬解優先</item>
+    </string-array>
+    <string-array name="pref_player_codecMode_summaries">
+        <item>根據機型和影片智能適配</item>
+        <item>硬解播放，性能好，兼容性強</item>
+        <item>冬季暖手必備，偏重兼容性，適用所有手機系統</item>
+        <item>兼容性差，備選</item>
+    </string-array>
+    <string-array name="pref_player_completionAction_entries">
+        <item>自動換P：自動播放下一P影片</item>
+        <item>自動換P（循環）：自動播放下一P影片，列表結束後從頭開始</item>
+        <item>洗腦循環：自動循環播放當前影片</item>
+        <item>播完暫停：停止播放等待操作</item>
+    </string-array>
+    <string-array name="pref_player_completionAction_summaries">
+        <item>自動換P：自動播放下一P影片</item>
+        <item>自動換P（循環）：自動播放下一P影片，列表結束後從頭開始</item>
+        <item>洗腦循環：自動循環播放當前影片</item>
+        <item>播完暫停：停止播放等待操作</item>
+    </string-array>
+    <string-array name="pref_player_ffmpegSkipLoopFilter_entries">
+        <item>自動選擇（推薦）</item>
+        <item>None：畫質最平滑</item>
+        <item>Non-Ref：平衡</item>
+        <item>Bi-Dir：可能出現馬賽克</item>
+        <item>Non-Key：可能出現馬賽克</item>
+        <item>All：性能最好，可能出現馬賽克</item>
+    </string-array>
+    <string-array name="search_order_type">
+        <item>預設排序</item>
+        <item>粉絲數由高到低</item>
+        <item>粉絲數由低到高</item>
+        <item>Lv等級由高到低</item>
+        <item>Lv等級由低到高</item>
+    </string-array>
+    <string-array name="search_stardust_entrance_name">
+        <item>話題中心</item>
+        <item>原創排行</item>
+        <item>活動中心</item>
+        <item>全區排行</item>
+        <item>小黑屋</item>
+        <item>遊戲中心</item>
+    </string-array>
+    <string-array name="search_submenu_duration">
+        <item>全部時長</item>
+        <item>0-10分鐘</item>
+        <item>10-30分鐘</item>
+        <item>30-60分鐘</item>
+        <item>60分鐘+</item>
+    </string-array>
+    <string-array name="search_submenu_order">
+        <item>預設排序</item>
+        <item>播放多</item>
+        <item>新發佈</item>
+        <item>彈幕多</item>
+    </string-array>
+    <string-array name="search_user_type">
+        <item>全部使用者</item>
+        <item>UP主</item>
+        <item>認證使用者</item>
+        <item>普通使用者</item>
+    </string-array>
+    <string-array name="timeline_current_time_str">
+        <item>試問，你可是我的Master？</item>
+        <item>是追番的friends呢！</item>
+        <item>超高校級的觀眾</item>
+        <item>為什麼你會這麼熟練啊</item>
+        <item>諸君，我喜歡追番</item>
+        <item>你願意陪我一起看嗎？</item>
+        <item>看番，我不是一個人</item>
+        <item>如果喜歡，就把這當做榮耀</item>
+        <item>會一直在你身邊的</item>
+        <item>這震撼心靈的番是怎麼回事！</item>
+        <item>大叔追個番還真是抱歉了啊</item>
+        <item>既然沒辦法，那就看番吧</item>
+        <item>大腦…大腦在顫抖！</item>
+        <item>你，真是怠惰呢！</item>
+        <item>看番真是太棒了</item>
+        <item>今天的風兒好喧囂</item>
+    </string-array>
+    <string-array name="timeline_empty_day_str">
+        <item>沒有番看我要死了</item>
+        <item>我很好奇</item>
+        <item>今天真是寂寞如雪</item>
+        <item>今天的時間表好安靜</item>
+        <item>這天是禁止事項</item>
+        <item>教練我想看番</item>
+        <item>什麼呀莫名其妙</item>
+        <item>總有一天讓這座無虛席</item>
+        <item>世界沒你想像得那麼糟糕</item>
+        <item>為什麼會變成這樣呢</item>
+        <item>你的愛還不夠啊</item>
+        <item>已經沒什麼好害怕的了</item>
+        <item>都是時臣的錯</item>
+    </string-array>
+</resources>
